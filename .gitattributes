@@ -1,0 +1,5 @@
+*.html linguist-generated=true
+*.tex linguist-generated=true  
+*.jpg linguist-generated=true
+*.R linguist-language=R
+* text=auto
